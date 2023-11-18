@@ -1,0 +1,35 @@
+.main {
+    width: 80vw;
+    margin-top: 50px;
+    margin-left: 130px;
+    display: flex;
+    padding: 0px 420px;
+    box-sizing: border-box;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 1px;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.cyan {
+    background-color: cyan;
+}
+
+.heading{
+    text-align: center;
+}
